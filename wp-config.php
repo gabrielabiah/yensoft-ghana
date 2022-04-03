@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'yensoft_landing' );
+define( 'DB_NAME', 'yensoft_db' );
 
 /** MySQL database username */
-define( 'DB_USER', 'yensoft_admin' );
+define( 'DB_USER', 'yensoft_user' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'o4UojntCpOYH' );
+define( 'DB_PASSWORD', 'p@$$wordGH13' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
